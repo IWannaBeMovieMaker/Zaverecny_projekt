@@ -1,6 +1,6 @@
 # Zaverecny_projekt
-Elastic search - Wordpress
+Elastic search - Wordpress Integrace
 bezici na dockeru
 
-instagrace
+#Odkazy:
 https://codeforgeek.com/integrate-wordpress-elasticsearch/
