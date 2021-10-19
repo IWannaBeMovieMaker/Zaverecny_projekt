@@ -1,5 +1,5 @@
 # Elastic search - Wordpress Integrace
-## bezici na dockeru
+## Docker
 * vysvetleni fungovani
 * zaindexovani polozek
 * pridani pameti
