@@ -2,5 +2,5 @@
 Elastic search - Wordpress Integrace
 bezici na dockeru
 
-#Odkazy:
+# Odkazy:
 https://codeforgeek.com/integrate-wordpress-elasticsearch/
