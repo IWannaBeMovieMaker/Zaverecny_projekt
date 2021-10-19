@@ -1,4 +1,4 @@
-# Elastic search - Wordpress Integrace
+# ElasticSearch - Wordpress Integrace
 ## Docker
 * vysvetleni fungovani
 * zaindexovani polozek
